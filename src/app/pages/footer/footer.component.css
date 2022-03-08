@@ -1,0 +1,27 @@
+.footer{
+    background: #0d61ab;
+    position: static;
+    bottom: 0px;
+    padding: 15px;
+    color: white;
+    /* width: 100%; */
+}
+.footerLogo{
+    height: 106px;
+    border-radius: 50%;  
+}
+dl dt , dl dd{
+    margin: 10px;
+}
+dl dd:hover , .fa:hover{
+    cursor: pointer;
+    color: darkblue;
+}
+.socialIcon{
+    margin-right: 13px;
+}
+.allRightReserve{
+    text-align: center;
+   
+    
+}

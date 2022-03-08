@@ -1,0 +1,27 @@
+.header{
+    background: #138ac7;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+ul li , .logo{
+    list-style: none;
+    float: left;
+    padding: 10px;
+
+}
+ul li:hover , .logo:hover{
+    cursor: pointer;
+    color: #a0ccf3;
+}
+.logoImg{
+    height: 54px;
+    border-radius: 50%;
+}
+.items{
+    color: #ffffff;
+    font-weight: 600;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+}

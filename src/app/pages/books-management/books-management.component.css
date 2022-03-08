@@ -1,0 +1,32 @@
+.with-30{
+    width: 30%;
+}
+.with-70{
+    width: 70%;
+}
+.innerSection {
+    display: flex;
+}
+.with-30 ,.with-70{
+height: 100vh;
+/* border: 2px solid black; */
+/* overflow-y: scroll; */
+}
+.bookName {
+    padding: 9px;
+    border-bottom: 1px solid gray;
+        display: flex;
+        justify-content: space-between;
+        cursor: pointer;
+}
+.content{
+    width: 68%;
+    margin: auto;
+    margin-top: 162px;
+    padding: 20px;
+    box-shadow: 0px 0px 80px #0d61ab;
+    border-radius: 6px;}
+td , th{
+    padding: 10px;
+    text-align: left;
+}
